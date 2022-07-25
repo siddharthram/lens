@@ -1,0 +1,480 @@
+_computerlevel[1] attribute: name: Jamf Notifications
+_computerlevel[1] attribute: configurationDescription: Configures notifications settings for apps
+_computerlevel[1] attribute: installationDate: 2021-10-31 00:15:52 +0000
+_computerlevel[1] attribute: organization: Inflection, LLC
+_computerlevel[1] attribute: profileIdentifier: com.jamf.notifications.settings
+_computerlevel[1] attribute: profileUUID: 00000000-0000-0000-A000-4A414D460014
+_computerlevel[1] attribute: profileType: com.apple.notificationsettings
+_computerlevel[1] attribute: removalDisallowed: TRUE
+_computerlevel[1] attribute: version: 1
+_computerlevel[1] attribute: containsComputerItems: TRUE
+_computerlevel[1] attribute: installedByMDM: TRUE
+_computerlevel[1] attribute: internaldata: TRUE
+_computerlevel[1] payload count = 1
+_computerlevel[1]            payload[1] name			= Notifications Payload
+_computerlevel[1]            payload[1] description		= (null)
+_computerlevel[1]            payload[1] type			= com.apple.notificationsettings
+_computerlevel[1]            payload[1] organization		= JAMF Software
+_computerlevel[1]            payload[1] identifier		= 34D64572-F2F1-4A2C-8481-9B37F62AFEE1
+_computerlevel[1]            payload[1] uuid			= 34D64572-F2F1-4A2C-8481-9B37F62AFEE1
+_computerlevel[2] attribute: name: Microsoft Defender SEXT Approval
+_computerlevel[2] attribute: configurationDescription: 
+_computerlevel[2] attribute: installationDate: 2022-04-21 16:15:07 +0000
+_computerlevel[2] attribute: organization: Inflection, LLC
+_computerlevel[2] attribute: profileIdentifier: 4BAB4AEF-84C6-4765-BF3B-D3BFAC579C0A
+_computerlevel[2] attribute: profileUUID: 4BAB4AEF-84C6-4765-BF3B-D3BFAC579C0A
+_computerlevel[2] attribute: profileType: Configuration
+_computerlevel[2] attribute: removalDisallowed: TRUE
+_computerlevel[2] attribute: version: 1
+_computerlevel[2] attribute: containsComputerItems: TRUE
+_computerlevel[2] attribute: installedByMDM: TRUE
+_computerlevel[2] attribute: internaldata: TRUE
+_computerlevel[2] payload count = 1
+_computerlevel[2]            payload[1] name			= System Extensions
+_computerlevel[2]            payload[1] description		= 
+_computerlevel[2]            payload[1] type			= com.apple.system-extension-policy
+_computerlevel[2]            payload[1] organization		= Inflection, LLC
+_computerlevel[2]            payload[1] identifier		= B5234D95-B0F5-4850-AB9D-5CD6F37AEFCD
+_computerlevel[2]            payload[1] uuid			= B5234D95-B0F5-4850-AB9D-5CD6F37AEFCD
+_computerlevel[3] attribute: name: EPP System Extension Approval
+_computerlevel[3] attribute: configurationDescription: 
+_computerlevel[3] attribute: installationDate: 2022-01-26 16:33:30 +0000
+_computerlevel[3] attribute: organization: Inflection, LLC
+_computerlevel[3] attribute: profileIdentifier: A846AB5E-38A8-4E17-8618-AE52F6DD2CB4
+_computerlevel[3] attribute: profileUUID: A846AB5E-38A8-4E17-8618-AE52F6DD2CB4
+_computerlevel[3] attribute: profileType: Configuration
+_computerlevel[3] attribute: removalDisallowed: TRUE
+_computerlevel[3] attribute: version: 1
+_computerlevel[3] attribute: containsComputerItems: TRUE
+_computerlevel[3] attribute: installedByMDM: TRUE
+_computerlevel[3] attribute: internaldata: TRUE
+_computerlevel[3] payload count = 1
+_computerlevel[3]            payload[1] name			= System Extensions
+_computerlevel[3]            payload[1] description		= 
+_computerlevel[3]            payload[1] type			= com.apple.system-extension-policy
+_computerlevel[3]            payload[1] organization		= Inflection, LLC
+_computerlevel[3]            payload[1] identifier		= 6EEBE529-9FCF-4C8B-86BB-3C620267A028
+_computerlevel[3]            payload[1] uuid			= 6EEBE529-9FCF-4C8B-86BB-3C620267A028
+_computerlevel[4] attribute: name: Jamf Connect 2.4
+_computerlevel[4] attribute: configurationDescription: 2.4
+_computerlevel[4] attribute: installationDate: 2022-03-03 23:58:52 +0000
+_computerlevel[4] attribute: organization: Inflection, LLC
+_computerlevel[4] attribute: profileIdentifier: F1BE029A-F442-4406-9531-E1D814BC5185
+_computerlevel[4] attribute: profileUUID: F1BE029A-F442-4406-9531-E1D814BC5185
+_computerlevel[4] attribute: profileType: Configuration
+_computerlevel[4] attribute: removalDisallowed: TRUE
+_computerlevel[4] attribute: version: 1
+_computerlevel[4] attribute: containsComputerItems: TRUE
+_computerlevel[4] attribute: installedByMDM: TRUE
+_computerlevel[4] attribute: internaldata: TRUE
+_computerlevel[4] payload count = 2
+_computerlevel[4]            payload[1] name			= Custom Settings
+_computerlevel[4]            payload[1] description		= (null)
+_computerlevel[4]            payload[1] type			= com.apple.ManagedClient.preferences
+_computerlevel[4]            payload[1] organization		= JAMF Software
+_computerlevel[4]            payload[1] identifier		= E622D29A-E0F5-4ACB-AF24-AAE30A2C05B0
+_computerlevel[4]            payload[1] uuid			= E622D29A-E0F5-4ACB-AF24-AAE30A2C05B0
+_computerlevel[4]            payload[2] name			= Custom Settings
+_computerlevel[4]            payload[2] description		= (null)
+_computerlevel[4]            payload[2] type			= com.apple.ManagedClient.preferences
+_computerlevel[4]            payload[2] organization		= JAMF Software
+_computerlevel[4]            payload[2] identifier		= B163B21B-76DE-4409-A850-374195851007
+_computerlevel[4]            payload[2] uuid			= B163B21B-76DE-4409-A850-374195851007
+_computerlevel[5] attribute: name: MDM Profile
+_computerlevel[5] attribute: configurationDescription: MDM Profile for mobile device management
+_computerlevel[5] attribute: installationDate: 2021-10-31 00:15:20 +0000
+_computerlevel[5] attribute: organization: Inflection LLC
+_computerlevel[5] attribute: profileIdentifier: 00000000-0000-0000-A000-4A414D460003
+_computerlevel[5] attribute: profileUUID: 00000000-0000-0000-A000-4A414D460003
+_computerlevel[5] attribute: profileType: Configuration
+_computerlevel[5] attribute: removalDisallowed: FALSE
+_computerlevel[5] attribute: version: 1
+_computerlevel[5] attribute: containsComputerItems: TRUE
+_computerlevel[5] attribute: installedByMDM: FALSE
+_computerlevel[5] attribute: internaldata: TRUE
+_computerlevel[5] payload count = 3
+_computerlevel[5]            payload[1] name			= JAMF Enrollment Payload: SCEP
+_computerlevel[5]            payload[1] description		= Configuration to connect to your SCEP Server
+_computerlevel[5]            payload[1] type			= com.apple.security.scep
+_computerlevel[5]            payload[1] organization		= Inflection, LLC
+_computerlevel[5]            payload[1] identifier		= com.jamfsoftware.encrypted-profile-service-scep2
+_computerlevel[5]            payload[1] uuid			= 00000000-0000-0000-A000-4A414D460006
+_computerlevel[5]            payload[2] name			= JAMF Manual Enrollment Payload: MDM
+_computerlevel[5]            payload[2] description		= Configuration to connect to your MDM Server
+_computerlevel[5]            payload[2] type			= com.apple.mdm
+_computerlevel[5]            payload[2] organization		= Inflection LLC
+_computerlevel[5]            payload[2] identifier		= 00000000-0000-0000-A000-4A414D460004
+_computerlevel[5]            payload[2] uuid			= 00000000-0000-0000-A000-4A414D460004
+_computerlevel[5]            payload[3] name			= CN=Inflection LLC JSS Built-in Certificate Authority
+_computerlevel[5]            payload[3] description		= A Root CA Certificate
+_computerlevel[5]            payload[3] type			= com.apple.security.root
+_computerlevel[5]            payload[3] organization		= Inflection, LLC
+_computerlevel[5]            payload[3] identifier		= 16D05862-F8A2-4E80-A378-7CD9F45C0974
+_computerlevel[5]            payload[3] uuid			= 16D05862-F8A2-4E80-A378-7CD9F45C0974
+_computerlevel[6] attribute: name: Privacy Preferences Policy Control
+_computerlevel[6] attribute: configurationDescription: Profile for Jamf management framework
+_computerlevel[6] attribute: installationDate: 2021-10-31 00:15:51 +0000
+_computerlevel[6] attribute: organization: Jamf Software
+_computerlevel[6] attribute: profileIdentifier: com.jamfsoftware.tcc.management
+_computerlevel[6] attribute: profileUUID: com.jamfsoftware.tcc.management
+_computerlevel[6] attribute: profileType: Configuration
+_computerlevel[6] attribute: removalDisallowed: TRUE
+_computerlevel[6] attribute: version: 1
+_computerlevel[6] attribute: containsComputerItems: TRUE
+_computerlevel[6] attribute: installedByMDM: TRUE
+_computerlevel[6] attribute: internaldata: TRUE
+_computerlevel[6] payload count = 1
+_computerlevel[6]            payload[1] name			= Privacy Preferences Policy Control
+_computerlevel[6]            payload[1] description		= Profile for Jamf management framework
+_computerlevel[6]            payload[1] type			= com.apple.TCC.configuration-profile-policy
+_computerlevel[6]            payload[1] organization		= Jamf Software
+_computerlevel[6]            payload[1] identifier		= com.jamfsoftware.tcc.management
+_computerlevel[6]            payload[1] uuid			= 00000000-0000-0000-A000-4A414D460010
+_computerlevel[7] attribute: name: Filevault Enablement and Key Escrow
+_computerlevel[7] attribute: configurationDescription: 
+_computerlevel[7] attribute: installationDate: 2022-04-04 16:33:28 +0000
+_computerlevel[7] attribute: organization: Inflection, LLC
+_computerlevel[7] attribute: profileIdentifier: B67F32A3-3AC2-48E5-9338-6AF7F648A789
+_computerlevel[7] attribute: profileUUID: B67F32A3-3AC2-48E5-9338-6AF7F648A789
+_computerlevel[7] attribute: profileType: Configuration
+_computerlevel[7] attribute: removalDisallowed: TRUE
+_computerlevel[7] attribute: version: 1
+_computerlevel[7] attribute: containsComputerItems: TRUE
+_computerlevel[7] attribute: installedByMDM: TRUE
+_computerlevel[7] attribute: internaldata: TRUE
+_computerlevel[7] payload count = 4
+_computerlevel[7]            payload[1] name			= FileVault Recovery Key Escrow
+_computerlevel[7]            payload[1] description		= (null)
+_computerlevel[7]            payload[1] type			= com.apple.security.FDERecoveryKeyEscrow
+_computerlevel[7]            payload[1] organization		= JAMF Software
+_computerlevel[7]            payload[1] identifier		= 643FD834-A137-4393-932F-CA646B4F1FAB
+_computerlevel[7]            payload[1] uuid			= 643FD834-A137-4393-932F-CA646B4F1FAB
+_computerlevel[7]            payload[2] name			= JSS FileVault Recovery Key Escrow Certificate
+_computerlevel[7]            payload[2] description		= 
+_computerlevel[7]            payload[2] type			= com.apple.security.pkcs1
+_computerlevel[7]            payload[2] organization		= Inflection, LLC
+_computerlevel[7]            payload[2] identifier		= C79F1408-7516-462B-A760-F0C4AD1F3935
+_computerlevel[7]            payload[2] uuid			= 515851b2-9b26-4739-9801-0675a7584316
+_computerlevel[7]            payload[3] name			= MCX
+_computerlevel[7]            payload[3] description		= (null)
+_computerlevel[7]            payload[3] type			= com.apple.MCX
+_computerlevel[7]            payload[3] organization		= JAMF Software
+_computerlevel[7]            payload[3] identifier		= FEAFC363-653F-4264-ABD3-FCE2519A9C42
+_computerlevel[7]            payload[3] uuid			= FEAFC363-653F-4264-ABD3-FCE2519A9C42
+_computerlevel[7]            payload[4] name			= FileVault
+_computerlevel[7]            payload[4] description		= (null)
+_computerlevel[7]            payload[4] type			= com.apple.MCX.FileVault2
+_computerlevel[7]            payload[4] organization		= JAMF Software
+_computerlevel[7]            payload[4] identifier		= 0E372C14-173A-4266-A05D-86BB6F967095
+_computerlevel[7]            payload[4] uuid			= 0E372C14-173A-4266-A05D-86BB6F967095
+_computerlevel[8] attribute: name: Jamf Connect Notifications
+_computerlevel[8] attribute: configurationDescription: Configures notifications settings for Jamf Connect
+_computerlevel[8] attribute: installationDate: 2021-10-31 00:15:53 +0000
+_computerlevel[8] attribute: organization: Inflection, LLC
+_computerlevel[8] attribute: profileIdentifier: com.jamf.connect.notifications.settings
+_computerlevel[8] attribute: profileUUID: 00000000-0000-0000-A000-4A414D460019
+_computerlevel[8] attribute: profileType: com.apple.notificationsettings
+_computerlevel[8] attribute: removalDisallowed: TRUE
+_computerlevel[8] attribute: version: 1
+_computerlevel[8] attribute: containsComputerItems: TRUE
+_computerlevel[8] attribute: installedByMDM: TRUE
+_computerlevel[8] attribute: internaldata: TRUE
+_computerlevel[8] payload count = 1
+_computerlevel[8]            payload[1] name			= Notifications Payload
+_computerlevel[8]            payload[1] description		= (null)
+_computerlevel[8]            payload[1] type			= com.apple.notificationsettings
+_computerlevel[8]            payload[1] organization		= JAMF Software
+_computerlevel[8]            payload[1] identifier		= 4371C53E-7C74-45B5-922E-5A78BC89A85A
+_computerlevel[8]            payload[1] uuid			= 4371C53E-7C74-45B5-922E-5A78BC89A85A
+_computerlevel[9] attribute: name: Microsoft Defender
+_computerlevel[9] attribute: configurationDescription: 
+_computerlevel[9] attribute: installationDate: 2022-04-21 16:15:03 +0000
+_computerlevel[9] attribute: organization: Inflection, LLC
+_computerlevel[9] attribute: profileIdentifier: 2429214A-3662-400C-99D7-7882757A9265
+_computerlevel[9] attribute: profileUUID: 2429214A-3662-400C-99D7-7882757A9265
+_computerlevel[9] attribute: profileType: Configuration
+_computerlevel[9] attribute: removalDisallowed: TRUE
+_computerlevel[9] attribute: version: 1
+_computerlevel[9] attribute: containsComputerItems: TRUE
+_computerlevel[9] attribute: installedByMDM: TRUE
+_computerlevel[9] attribute: internaldata: TRUE
+_computerlevel[9] payload count = 6
+_computerlevel[9]            payload[1] name			= Custom Settings
+_computerlevel[9]            payload[1] description		= (null)
+_computerlevel[9]            payload[1] type			= com.apple.ManagedClient.preferences
+_computerlevel[9]            payload[1] organization		= JAMF Software
+_computerlevel[9]            payload[1] identifier		= CAD6FA78-5110-4831-B941-9C681CB26BF4
+_computerlevel[9]            payload[1] uuid			= CAD6FA78-5110-4831-B941-9C681CB26BF4
+_computerlevel[9]            payload[2] name			= Custom Settings
+_computerlevel[9]            payload[2] description		= (null)
+_computerlevel[9]            payload[2] type			= com.apple.ManagedClient.preferences
+_computerlevel[9]            payload[2] organization		= JAMF Software
+_computerlevel[9]            payload[2] identifier		= F8664501-F934-44B5-AF52-0DF13E857FD5
+_computerlevel[9]            payload[2] uuid			= F8664501-F934-44B5-AF52-0DF13E857FD5
+_computerlevel[9]            payload[3] name			= Custom Settings
+_computerlevel[9]            payload[3] description		= (null)
+_computerlevel[9]            payload[3] type			= com.apple.ManagedClient.preferences
+_computerlevel[9]            payload[3] organization		= JAMF Software
+_computerlevel[9]            payload[3] identifier		= 81098D1C-ACDC-43AC-A129-DED44186B16C
+_computerlevel[9]            payload[3] uuid			= 81098D1C-ACDC-43AC-A129-DED44186B16C
+_computerlevel[9]            payload[4] name			= Web Content Filter Payload
+_computerlevel[9]            payload[4] description		= (null)
+_computerlevel[9]            payload[4] type			= com.apple.webcontent-filter
+_computerlevel[9]            payload[4] organization		= JAMF Software
+_computerlevel[9]            payload[4] identifier		= 63879BC6-A6DF-49C5-AA23-F0F6238A795D
+_computerlevel[9]            payload[4] uuid			= 63879BC6-A6DF-49C5-AA23-F0F6238A795D
+_computerlevel[9]            payload[5] name			= Notifications Payload
+_computerlevel[9]            payload[5] description		= (null)
+_computerlevel[9]            payload[5] type			= com.apple.notificationsettings
+_computerlevel[9]            payload[5] organization		= JAMF Software
+_computerlevel[9]            payload[5] identifier		= 865707CB-4D1A-4D80-8411-7FB3CB2326C1
+_computerlevel[9]            payload[5] uuid			= 418101FB-8426-42C3-8E60-5C9047843EB1
+_computerlevel[9]            payload[6] name			= Privacy Preferences Policy Control
+_computerlevel[9]            payload[6] description		= 
+_computerlevel[9]            payload[6] type			= com.apple.TCC.configuration-profile-policy
+_computerlevel[9]            payload[6] organization		= Inflection, LLC
+_computerlevel[9]            payload[6] identifier		= 82417F48-4CE0-411C-9D18-74203B6CD5CE
+_computerlevel[9]            payload[6] uuid			= 82417F48-4CE0-411C-9D18-74203B6CD5CE
+_computerlevel[10] attribute: name: System Preferences -  Restrictions - Passcode
+_computerlevel[10] attribute: configurationDescription: 
+_computerlevel[10] attribute: installationDate: 2021-11-07 16:18:34 +0000
+_computerlevel[10] attribute: organization: Inflection, LLC
+_computerlevel[10] attribute: profileIdentifier: ACF02117-C268-4503-8529-55C24184EF52
+_computerlevel[10] attribute: profileUUID: ACF02117-C268-4503-8529-55C24184EF52
+_computerlevel[10] attribute: profileType: Configuration
+_computerlevel[10] attribute: removalDisallowed: TRUE
+_computerlevel[10] attribute: version: 1
+_computerlevel[10] attribute: containsComputerItems: TRUE
+_computerlevel[10] attribute: installedByMDM: TRUE
+_computerlevel[10] attribute: internaldata: TRUE
+_computerlevel[10] payload count = 1
+_computerlevel[10]            payload[1] name			= Passcode Payload
+_computerlevel[10]            payload[1] description		= (null)
+_computerlevel[10]            payload[1] type			= com.apple.mobiledevice.passwordpolicy
+_computerlevel[10]            payload[1] organization		= JAMF Software
+_computerlevel[10]            payload[1] identifier		= ECCA6EC9-326A-438B-B897-CCBAF2F8EEA5
+_computerlevel[10]            payload[1] uuid			= ECCA6EC9-326A-438B-B897-CCBAF2F8EEA5
+_computerlevel[11] attribute: name: Connectwise Control
+_computerlevel[11] attribute: configurationDescription: 
+_computerlevel[11] attribute: installationDate: 2021-10-31 00:15:45 +0000
+_computerlevel[11] attribute: organization: Inflection, LLC
+_computerlevel[11] attribute: profileIdentifier: 8650A0F8-F693-438A-8F6D-16C44CD5B11F
+_computerlevel[11] attribute: profileUUID: 8650A0F8-F693-438A-8F6D-16C44CD5B11F
+_computerlevel[11] attribute: profileType: Configuration
+_computerlevel[11] attribute: removalDisallowed: TRUE
+_computerlevel[11] attribute: version: 1
+_computerlevel[11] attribute: containsComputerItems: TRUE
+_computerlevel[11] attribute: installedByMDM: TRUE
+_computerlevel[11] attribute: internaldata: TRUE
+_computerlevel[11] payload count = 1
+_computerlevel[11]            payload[1] name			= Privacy Preferences Policy Control
+_computerlevel[11]            payload[1] description		= 
+_computerlevel[11]            payload[1] type			= com.apple.TCC.configuration-profile-policy
+_computerlevel[11]            payload[1] organization		= Inflection, LLC
+_computerlevel[11]            payload[1] identifier		= EEA9D42E-7E8B-4335-9D37-3941A99E4E55
+_computerlevel[11]            payload[1] uuid			= EEA9D42E-7E8B-4335-9D37-3941A99E4E55
+_computerlevel[12] attribute: name: Global Protect System Extension
+_computerlevel[12] attribute: configurationDescription: 
+_computerlevel[12] attribute: installationDate: 2021-12-06 17:51:12 +0000
+_computerlevel[12] attribute: organization: Inflection, LLC
+_computerlevel[12] attribute: profileIdentifier: BAC6E4D2-43F1-47DD-B7C6-254D353458F2
+_computerlevel[12] attribute: profileUUID: BAC6E4D2-43F1-47DD-B7C6-254D353458F2
+_computerlevel[12] attribute: profileType: Configuration
+_computerlevel[12] attribute: removalDisallowed: TRUE
+_computerlevel[12] attribute: version: 1
+_computerlevel[12] attribute: containsComputerItems: TRUE
+_computerlevel[12] attribute: installedByMDM: TRUE
+_computerlevel[12] attribute: internaldata: TRUE
+_computerlevel[12] payload count = 1
+_computerlevel[12]            payload[1] name			= System Extensions
+_computerlevel[12]            payload[1] description		= 
+_computerlevel[12]            payload[1] type			= com.apple.system-extension-policy
+_computerlevel[12]            payload[1] organization		= Inflection, LLC
+_computerlevel[12]            payload[1] identifier		= F5A49742-A0AC-44E5-95F4-99FA1A3C72E6
+_computerlevel[12]            payload[1] uuid			= F5A49742-A0AC-44E5-95F4-99FA1A3C72E6
+_computerlevel[13] attribute: name: Jamf Connect PPPC
+_computerlevel[13] attribute: configurationDescription: 
+_computerlevel[13] attribute: installationDate: 2021-10-31 00:15:53 +0000
+_computerlevel[13] attribute: organization: JAMF Software
+_computerlevel[13] attribute: profileIdentifier: com.jamf.connect.login.pppc
+_computerlevel[13] attribute: profileUUID: 00000000-0000-0000-A000-4A414D460015
+_computerlevel[13] attribute: profileType: Configuration
+_computerlevel[13] attribute: removalDisallowed: TRUE
+_computerlevel[13] attribute: version: 1
+_computerlevel[13] attribute: containsComputerItems: TRUE
+_computerlevel[13] attribute: installedByMDM: TRUE
+_computerlevel[13] attribute: internaldata: TRUE
+_computerlevel[13] payload count = 1
+_computerlevel[13]            payload[1] name			= TCC Settings for fdesetup from loginwindow
+_computerlevel[13]            payload[1] description		= 
+_computerlevel[13]            payload[1] type			= com.apple.TCC.configuration-profile-policy
+_computerlevel[13]            payload[1] organization		= Inflection, LLC
+_computerlevel[13]            payload[1] identifier		= com.jamf.connect.login.pppc
+_computerlevel[13]            payload[1] uuid			= 00000000-0000-0000-A000-4A414D460017
+_computerlevel[14] attribute: name: Microsoft Defender KEXT Approval
+_computerlevel[14] attribute: configurationDescription: For non-M1s
+_computerlevel[14] attribute: installationDate: 2022-04-21 16:15:04 +0000
+_computerlevel[14] attribute: organization: Inflection, LLC
+_computerlevel[14] attribute: profileIdentifier: E78EAAA3-C95B-483A-B8CF-6B6A6D946E93
+_computerlevel[14] attribute: profileUUID: E78EAAA3-C95B-483A-B8CF-6B6A6D946E93
+_computerlevel[14] attribute: profileType: Configuration
+_computerlevel[14] attribute: removalDisallowed: TRUE
+_computerlevel[14] attribute: version: 1
+_computerlevel[14] attribute: containsComputerItems: TRUE
+_computerlevel[14] attribute: installedByMDM: TRUE
+_computerlevel[14] attribute: internaldata: TRUE
+_computerlevel[14] payload count = 1
+_computerlevel[14]            payload[1] name			= Approved Kernel Extensions
+_computerlevel[14]            payload[1] description		= 
+_computerlevel[14]            payload[1] type			= com.apple.syspolicy.kernel-extension-policy
+_computerlevel[14]            payload[1] organization		= Inflection, LLC
+_computerlevel[14]            payload[1] identifier		= 90ED7799-3983-4B06-B9F8-10E0B4897A1A
+_computerlevel[14]            payload[1] uuid			= 90ED7799-3983-4B06-B9F8-10E0B4897A1A
+_computerlevel[15] attribute: name: System Preferences - Restrictions - Profiles
+_computerlevel[15] attribute: configurationDescription: Disables the user from deleting the profiles required from enrollment into the console.
+_computerlevel[15] attribute: installationDate: 2022-01-14 23:25:59 +0000
+_computerlevel[15] attribute: organization: Inflection, LLC
+_computerlevel[15] attribute: profileIdentifier: 0525DD22-2378-4EA4-9205-E2D8A3C0E2BF
+_computerlevel[15] attribute: profileUUID: 0525DD22-2378-4EA4-9205-E2D8A3C0E2BF
+_computerlevel[15] attribute: profileType: Configuration
+_computerlevel[15] attribute: removalDisallowed: TRUE
+_computerlevel[15] attribute: version: 1
+_computerlevel[15] attribute: containsComputerItems: TRUE
+_computerlevel[15] attribute: installedByMDM: TRUE
+_computerlevel[15] attribute: internaldata: TRUE
+_computerlevel[15] payload count = 16
+_computerlevel[15]            payload[1] name			= Media Access:  Disc Recording
+_computerlevel[15]            payload[1] description		= 
+_computerlevel[15]            payload[1] type			= com.apple.DiscRecording
+_computerlevel[15]            payload[1] organization		= Inflection, LLC
+_computerlevel[15]            payload[1] identifier		= D2E78DD6-47BD-4544-935C-07409AE2994C
+_computerlevel[15]            payload[1] uuid			= D2E78DD6-47BD-4544-935C-07409AE2994C
+_computerlevel[15]            payload[2] name			= Restrictions
+_computerlevel[15]            payload[2] description		= 
+_computerlevel[15]            payload[2] type			= com.apple.applicationaccess
+_computerlevel[15]            payload[2] organization		= Inflection, LLC
+_computerlevel[15]            payload[2] identifier		= 8AC4094A-A170-4D3A-B6C4-9ED06A8CEF95
+_computerlevel[15]            payload[2] uuid			= 8AC4094A-A170-4D3A-B6C4-9ED06A8CEF95
+_computerlevel[15]            payload[3] name			= Dashboard Widget Restrictions
+_computerlevel[15]            payload[3] description		= 
+_computerlevel[15]            payload[3] type			= com.apple.dashboard
+_computerlevel[15]            payload[3] organization		= Inflection, LLC
+_computerlevel[15]            payload[3] identifier		= 947B6172-797C-4959-932B-CA19E0B836EA
+_computerlevel[15]            payload[3] uuid			= 947B6172-797C-4959-932B-CA19E0B836EA
+_computerlevel[15]            payload[4] name			= MCX
+_computerlevel[15]            payload[4] description		= 
+_computerlevel[15]            payload[4] type			= com.apple.MCX
+_computerlevel[15]            payload[4] organization		= Inflection, LLC
+_computerlevel[15]            payload[4] identifier		= E06DDB84-3D84-48C7-9CA2-A8155EA57644
+_computerlevel[15]            payload[4] uuid			= E06DDB84-3D84-48C7-9CA2-A8155EA57644
+_computerlevel[15]            payload[5] name			= System Preferences
+_computerlevel[15]            payload[5] description		= 
+_computerlevel[15]            payload[5] type			= com.apple.systempreferences
+_computerlevel[15]            payload[5] organization		= Inflection, LLC
+_computerlevel[15]            payload[5] identifier		= 291AEF3B-3C87-49AA-9ED1-B794ECBA8E04
+_computerlevel[15]            payload[5] uuid			= 291AEF3B-3C87-49AA-9ED1-B794ECBA8E04
+_computerlevel[15]            payload[6] name			= Game Center
+_computerlevel[15]            payload[6] description		= 
+_computerlevel[15]            payload[6] type			= com.apple.gamed
+_computerlevel[15]            payload[6] organization		= Inflection, LLC
+_computerlevel[15]            payload[6] identifier		= EF288151-52CD-4115-8860-E38989FBF9A9
+_computerlevel[15]            payload[6] uuid			= EF288151-52CD-4115-8860-E38989FBF9A9
+_computerlevel[15]            payload[7] name			= App Store
+_computerlevel[15]            payload[7] description		= 
+_computerlevel[15]            payload[7] type			= com.apple.appstore
+_computerlevel[15]            payload[7] organization		= Inflection, LLC
+_computerlevel[15]            payload[7] identifier		= 8428284B-4B28-4BD7-AA88-F2484DB81472
+_computerlevel[15]            payload[7] uuid			= 8428284B-4B28-4BD7-AA88-F2484DB81472
+_computerlevel[15]            payload[8] name			= User Preferences
+_computerlevel[15]            payload[8] description		= 
+_computerlevel[15]            payload[8] type			= com.apple.preferences.users
+_computerlevel[15]            payload[8] organization		= Inflection, LLC
+_computerlevel[15]            payload[8] identifier		= EFAC9783-F067-4808-93A2-1EDBE2406BF1
+_computerlevel[15]            payload[8] uuid			= EFAC9783-F067-4808-93A2-1EDBE2406BF1
+_computerlevel[15]            payload[9] name			= CoreMediaIO Support
+_computerlevel[15]            payload[9] description		= 
+_computerlevel[15]            payload[9] type			= com.apple.coremediaio.support
+_computerlevel[15]            payload[9] organization		= Inflection, LLC
+_computerlevel[15]            payload[9] identifier		= D2C63B6F-98BC-4034-8191-159F934C9B4D
+_computerlevel[15]            payload[9] uuid			= D2C63B6F-98BC-4034-8191-159F934C9B4D
+_computerlevel[15]            payload[10] name			= Application Restrictions
+_computerlevel[15]            payload[10] description		= 
+_computerlevel[15]            payload[10] type			= com.apple.applicationaccess.new
+_computerlevel[15]            payload[10] organization		= Inflection, LLC
+_computerlevel[15]            payload[10] identifier		= 2CCA8BCD-3BDB-4E9D-B58D-F425DE780B10
+_computerlevel[15]            payload[10] uuid			= 2CCA8BCD-3BDB-4E9D-B58D-F425DE780B10
+_computerlevel[15]            payload[11] name			= Desktop
+_computerlevel[15]            payload[11] description		= 
+_computerlevel[15]            payload[11] type			= com.apple.desktop
+_computerlevel[15]            payload[11] organization		= Inflection, LLC
+_computerlevel[15]            payload[11] identifier		= 3C15C115-C2D0-41F7-95DE-7EA89D5CD7B1
+_computerlevel[15]            payload[11] uuid			= 3C15C115-C2D0-41F7-95DE-7EA89D5CD7B1
+_computerlevel[15]            payload[12] name			= Restrictions
+_computerlevel[15]            payload[12] description		= 
+_computerlevel[15]            payload[12] type			= com.apple.ShareKitHelper
+_computerlevel[15]            payload[12] organization		= Inflection, LLC
+_computerlevel[15]            payload[12] identifier		= 2DB3ED20-768E-46F4-AD9A-B1045B81D56D
+_computerlevel[15]            payload[12] uuid			= 2DB3ED20-768E-46F4-AD9A-B1045B81D56D
+_computerlevel[15]            payload[13] name			= AirDrop
+_computerlevel[15]            payload[13] description		= 
+_computerlevel[15]            payload[13] type			= com.apple.NetworkBrowser
+_computerlevel[15]            payload[13] organization		= Inflection, LLC
+_computerlevel[15]            payload[13] identifier		= E78DB18F-5DAF-448E-85B3-7347F6A49F46
+_computerlevel[15]            payload[13] uuid			= E78DB18F-5DAF-448E-85B3-7347F6A49F46
+_computerlevel[15]            payload[14] name			= Media Access
+_computerlevel[15]            payload[14] description		= 
+_computerlevel[15]            payload[14] type			= com.apple.systemuiserver
+_computerlevel[15]            payload[14] organization		= Inflection, LLC
+_computerlevel[15]            payload[14] identifier		= 44E42101-E89E-4EB8-8D94-5AD053C29535
+_computerlevel[15]            payload[14] uuid			= 44E42101-E89E-4EB8-8D94-5AD053C29535
+_computerlevel[15]            payload[15] name			= Media Access:  Finder Settings
+_computerlevel[15]            payload[15] description		= 
+_computerlevel[15]            payload[15] type			= com.apple.finder
+_computerlevel[15]            payload[15] organization		= Inflection, LLC
+_computerlevel[15]            payload[15] identifier		= 56B64DF3-B9C8-4ADC-9EE6-06C021C7E366
+_computerlevel[15]            payload[15] uuid			= 56B64DF3-B9C8-4ADC-9EE6-06C021C7E366
+_computerlevel[15]            payload[16] name			= FileProvider
+_computerlevel[15]            payload[16] description		= 
+_computerlevel[15]            payload[16] type			= com.apple.fileproviderd
+_computerlevel[15]            payload[16] organization		= Inflection, LLC
+_computerlevel[15]            payload[16] identifier		= 069E740A-B74B-468B-B9A0-0B47FB05F6C0
+_computerlevel[15]            payload[16] uuid			= 069E740A-B74B-468B-B9A0-0B47FB05F6C0
+_computerlevel[16] attribute: name: EPP Certificate
+_computerlevel[16] attribute: configurationDescription: 
+_computerlevel[16] attribute: installationDate: 2022-01-26 21:24:52 +0000
+_computerlevel[16] attribute: organization: Inflection, LLC
+_computerlevel[16] attribute: profileIdentifier: B0BB77F7-93D6-4B3B-BDBB-C9E4B5817552
+_computerlevel[16] attribute: profileUUID: B0BB77F7-93D6-4B3B-BDBB-C9E4B5817552
+_computerlevel[16] attribute: profileType: Configuration
+_computerlevel[16] attribute: removalDisallowed: TRUE
+_computerlevel[16] attribute: version: 1
+_computerlevel[16] attribute: containsComputerItems: TRUE
+_computerlevel[16] attribute: installedByMDM: TRUE
+_computerlevel[16] attribute: internaldata: TRUE
+_computerlevel[16] payload count = 1
+_computerlevel[16]            payload[1] name			= EPP
+_computerlevel[16]            payload[1] description		= 
+_computerlevel[16]            payload[1] type			= com.apple.security.root
+_computerlevel[16]            payload[1] organization		= Inflection, LLC
+_computerlevel[16]            payload[1] identifier		= 8940B8D4-F458-40E4-A87F-3CF1D7192B23
+_computerlevel[16]            payload[1] uuid			= 8940B8D4-F458-40E4-A87F-3CF1D7192B23
+_computerlevel[17] attribute: name: GlobalProtect Content Filter Approval
+_computerlevel[17] attribute: configurationDescription: 
+_computerlevel[17] attribute: installationDate: 2021-12-06 17:50:48 +0000
+_computerlevel[17] attribute: organization: Inflection, LLC
+_computerlevel[17] attribute: profileIdentifier: F40D7EEA-3BFA-4DF2-9725-3774359CB4D3
+_computerlevel[17] attribute: profileUUID: F40D7EEA-3BFA-4DF2-9725-3774359CB4D3
+_computerlevel[17] attribute: profileType: Configuration
+_computerlevel[17] attribute: removalDisallowed: TRUE
+_computerlevel[17] attribute: version: 1
+_computerlevel[17] attribute: containsComputerItems: TRUE
+_computerlevel[17] attribute: installedByMDM: TRUE
+_computerlevel[17] attribute: internaldata: TRUE
+_computerlevel[17] payload count = 1
+_computerlevel[17]            payload[1] name			= Web Content Filter Payload
+_computerlevel[17]            payload[1] description		= (null)
+_computerlevel[17]            payload[1] type			= com.apple.webcontent-filter
+_computerlevel[17]            payload[1] organization		= JAMF Software
+_computerlevel[17]            payload[1] identifier		= A55EC955-AC9C-425F-A45D-111C6783C0A9
+_computerlevel[17]            payload[1] uuid			= A55EC955-AC9C-425F-A45D-111C6783C0A9
+There are 17 system configuration profiles installed
